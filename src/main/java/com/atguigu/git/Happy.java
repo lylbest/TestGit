@@ -8,6 +8,7 @@ public class Happy {
 		System.out.println("left test ...");
 		
 		System.out.println("test hot_fix");
+		System.out.println("test cold_fix");
 	}
 
 }
